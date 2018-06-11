@@ -1,5 +1,5 @@
-# Script "Oracle - Lago(HDFS) - Oracle"
-Descripción: El siguiente script tiene como finalidad exportar una o n tablas con el mismo esquema de Oracle - Lago - Oracle
+# Script "Oracle - Lago(HDFS) - Oracle"  (Fuentes de concentrado)
+Descripción: El siguiente script exporta el contenido de la tabla DWMB_BC_CONCENTRADO a HDFS
 
 [![N|Solid](https://trello-attachments.s3.amazonaws.com/5a1baed8137a75335503cc3a/5afcd584aa5675f32966baf0/78b83659e8e29d72882174cdad376a62/concentrados_img.png)](https://nodesource.com/products/nsolid)
 
