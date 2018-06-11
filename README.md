@@ -1,7 +1,7 @@
 # Script "Oracle - Lago(HDFS) - Oracle"
 Descripción: El siguiente script tiene como finalidad exportar una o n tablas con el mismo esquema de Oracle - Lago - Oracle
 
-[![N|Solid](https://trello-attachments.s3.amazonaws.com/5a1baed8137a75335503cc3a/5afcd584aa5675f32966baf0/9aedf7c3b929d88d5eafa31d6a7aa0ad/oracletoHdsf.PNG)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://trello-attachments.s3.amazonaws.com/5a1baed8137a75335503cc3a/5afcd584aa5675f32966baf0/78b83659e8e29d72882174cdad376a62/concentrados_img.png)](https://nodesource.com/products/nsolid)
 
 ## Directorios
 
